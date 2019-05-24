@@ -1,3 +1,3 @@
 echo "Addition of two variable"
-let "NUM = $(($first + $second))"
+let "NUM = $(( $first + $second ))"
 echo "$NUM"
